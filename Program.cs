@@ -1,5 +1,5 @@
 ﻿Siswa siswaObj = new Siswa("cipa", "cipa@gmail.com", "222222", "Siswa", "XPG2 ");
-Guru guruObj = new Guru("cimi", "cimi@gmail.com", "333333", "Guru", "PAI");
+Guru guruObj = new Guru("mimii", "cimi@gmail.com", "333333", "Guru", "PAI");
 
 siswaObj.TampilkanInfo();
 siswaObj.SubmitTugas();
